@@ -4,7 +4,7 @@ Developer, designer, and dreamer of scalable and intelligent infrastructures fol
 
 Public speaker on React tools including state management alternatives and WebSocket technologies.
 
-Actively looking for ways to contribute to open-source projects!
+Actively looking for ways to contribute to open-source projects related to developer tools!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ronellecaguioa/)
 
