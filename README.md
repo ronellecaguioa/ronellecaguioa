@@ -1,4 +1,10 @@
-### Hi there 👋
+### Ronelle Caguioa
+
+Developer, designer, and dreamer of scalable and intelligent infrastructures following RESTful APIs, MVC patterns, and Flux architecture. Specialist in building SPA with React.js with Node.js for backend systems. Public speaker on React tools including state management alternatives and WebSocket technologies.
+
+Actively looking for ways to contribute to open-source projects!
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ronellecaguioa/)
 
 <!--
 **ronellecaguioa/ronellecaguioa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
