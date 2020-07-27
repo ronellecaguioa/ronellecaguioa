@@ -1,6 +1,8 @@
 <h1 align="center">Ronelle Caguioa</h1>
 
-Developer, designer, and dreamer of scalable and intelligent infrastructures following RESTful APIs, MVC patterns, and Flux architecture. Specialist in building SPA with React.js with Node.js for backend systems. Public speaker on React tools including state management alternatives and WebSocket technologies.
+Developer, designer, and dreamer of scalable and intelligent infrastructures following RESTful APIs, MVC patterns, and Flux architecture. Specialist in building SPAs with React.js with backend systems programmed with Node.js. 
+
+Public speaker on React tools including state management alternatives and WebSocket technologies.
 
 Actively looking for ways to contribute to open-source projects!
 
